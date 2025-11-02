@@ -28,7 +28,9 @@ Com salvamento automático em arquivo JSON
    ```bash
    python to_do.py
    ```
+## <p align= "center">**Exemplo da To_Do List**</p>
 
-## Exemplo
+<p align="center">
+ <img src="print_terminal.png" alt="Exemplo da To_Do List" width="400">
+</p> 
 
-![Terminal da To_Do List](images/print_terminal.png)

@@ -4,6 +4,7 @@ Uma To_Do List simples feita em python que roda no terminal, permitindo adiciona
 Com salvamento automático em arquivo JSON
 
 ## Funcionalidades
+
 - ✔ Adicionar tarefas
 - ✔ Listar tarefas
 - ✔ Marcar tarefas como concluídas
@@ -14,11 +15,20 @@ Com salvamento automático em arquivo JSON
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/raquelpwn/to_do_list-terminal.git 
+   git clone https://github.com/raquelpwn/to_do_list-terminal.git
+   ```
 2. Entre na pasta:
+
    ```bash
    cd to_do_list-terminal
 
+   ```
+
 3. Rode o programa:
-    ```bash
+   ```bash
    python to_do.py
+   ```
+
+## Exemplo
+
+![Terminal da To_Do List](images/print_terminal.png)
